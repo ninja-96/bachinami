@@ -1,4 +1,4 @@
-# BachiName
+# BachiNami
 
 Batch pipeline processing
 
